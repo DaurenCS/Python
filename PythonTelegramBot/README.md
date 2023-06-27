@@ -4,7 +4,7 @@ Note the all task in this bot
 
 
 ## Prerequisites:
-    ```bash
+```
 pip install aiogram
 pip install sqlite3
 pip install kb
