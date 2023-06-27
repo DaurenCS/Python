@@ -13,10 +13,10 @@ pip install kb
 Token for telegram-bot  
 For more information link to 
     
-    ```bash
+```
 https://core.telegram.org/bots
 ``` 
-<hr>
+
 
 
 ## Functionality
